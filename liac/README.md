@@ -34,6 +34,9 @@ This project is a Flutter implementation of an educational app UI design with a 
 - Followed a clean and maintainable project structure
 - Implemented custom styling to match the design closely
 
+## Apk File
+- https://drive.google.com/file/d/1tp3gOHuDFYsagYlOKc2n_0ljh-nW7Rli/view?usp=drive_link
+
 ## Design Credits
 
 Original design: [Educational Mobile iOS App on Dribbble](https://dribbble.com/shots/25532415-Educational-Mobile-iOS-App)
