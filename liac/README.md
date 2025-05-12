@@ -15,6 +15,9 @@ This project is a Flutter implementation of an educational app UI design with a 
 
 ## Screenshots
 
+![4DBC5E3D-1C8F-4295-8C46-AE13F2E3F799_4_5005_c](https://github.com/user-attachments/assets/78d7f651-132b-4c05-b12d-c9a6be5b5497)
+![11523D29-B9C4-4B4C-99BC-30C0C2DCBF84_4_5005_c](https://github.com/user-attachments/assets/b5228eaa-a17a-4bb2-a6ec-b8634457935d)
+![479A2509-AA80-44F0-B852-FCF41C6A36CF_4_5005_c](https://github.com/user-attachments/assets/7a8412c9-e39c-48fa-b47e-9a3ef670cb00)
 
 
 ## Getting Started
